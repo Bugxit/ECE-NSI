@@ -1,0 +1,22 @@
+Sujet 3 - Exo 1: 
+    Est-ce grave si fibonacci est récursif et donc très lent ? (Faut-il faire du dynamique ?)
+Sujet 5 - Exo 1:
+    "une chaîne de caractères non vide" ; renverse("") ..................
+Sujet 12 - Exo 2:
+    Le dico est pas donné dans le .py...
+Sujet 31 - Exo 1:
+    AUTORISATION OU INTERDICTION (solution chelou)
+Sujet 33 - Exo 2:
+    MINIMUM ??? DEPUIS QUAND UN ALGO GLOUTON DONNE LE MINIMUM ???? (le deuxième exemple est donc faux)
+Sujet 39 - Exo 1:
+    Moyenne de l'ensemble vide ?
+Sujet 41 - Exo 1:
+    je peux monsieuuuuuuuuuuur ? ( ^ ) 
+Sujet 45 - Exo 2:
+    est_cyclique({'A':'F','F':'F','C':'D','E':'C','B':'F','D':'E'})
+
+
+Revoir sujet 11 - Exo 2 (un peu bcp chiant)
+Revoir Sujet 29 - Exo 2 (UN PEU BCP ILLOGIQUE ???)
+
+Dans les moyennes de coeffs, si sum(coeffs) == 0 jfq ????
